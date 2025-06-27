@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "kondisigreenhouse",
+  "private_key_id": "064f06cb314bce1a0983b2609bc8329b2a593bd5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC/Tu4f+RsSg1f5\n0Vtaldyr7gLwgAhJOrk5ERyxEV3QwMv7qGaIkDP/R6y5I6l3Uj6LEvSCs1Y9lwyB\nZkwEJod4RaSB79z3wmQxc8NvvdaQIcyatm0DjMB6B8v3K9jRWYrjOMKuHKk3kEbx\nBI2LYwN727vHLk3zP5jW9q6mRfBUuBXbeS+xHGX/7NK8FOSCkJuxvcIign6IhM0s\n0LYg8inn1nBn6TMluBdazgt82spVDrf2UfqT1xo+7R63ke/N187tNTnA7m5qSFA7\nocwpzzBVuqnZ+qyWWE2R7iEuijTIhA/7Qmq86oXq8D2IzztikBZS/vpXDj0d4Hl0\nqmxm3J/fAgMBAAECggEAWS37rlbq6lXk8HVKPy+GB3Wz1BXzBuQDjRkvhVFhqNr/\nG+i0J2wFeTaZy1JXAOMLebxT1Auyo5Jix31+6R5m30ejuNiuaqapGy5qSBA4UccX\nwHVS2ylFXn189NNxRqIVrvd6NTzyGw88KsVjEDuPV7EmV2L7/m1Cm86xupv2vR6m\nDd5VY+bzxsZYXR3WZCwMKWl2es3HuescAbv5xs/W7VGnG5ch9PQSUKTFxYc0PZKb\nGVJ/QKdmUCfhjn7fs/PYvV8AhThaGErlHHyxq4mSbmEsa6jt28fuopCEkXmrJ9Em\nOCdoOMwWzjh4P5lGVJRbhlqBiVijvENRzv2Jb+7/uQKBgQDydRyxkF2Y8SkL9hoP\nJnHjp5gkOH5tmooLW/N6GdRBaFYRW+CCUtElg8GFoufqf7bwtE/QQFBQLqgPzzrn\nlKvTtLA7w8sYvny9PczUBM5/KG3Wl4LdjeD40nkuI01D38EhJqfCpn0MmQ12JeWA\nIlUKmBH6NbosB3+JlmjDmQiVCQKBgQDJ/nBXerfS0ieBNfAC20wWV/iccPd2h7vA\ncnbdiqQ9MojRiPaBtG35mQOlOeQLYTHp8QTlfbU+9DFAWAglLAg/zkO5fx5norqF\nxycVZUr8USN9kT/xJhKp70G9oN65amhXU0ohRoC3eylLDdBpxfzpEx/qanBK6mb4\nPJ2r/iDvpwKBgQDpuQtYABq5/H/dD/g+8oiHNF/tSqhVb8vy90jWQ1/hTXrqcO8T\nslH7H+/Fqyx1WXg4wRjPX7AMG23XD6Vw6FhbVKsucaeuyrHkm1aAa8HDwm1fl96H\nROXB9uLqHw20iFXcZy8A7Q1Ov5vCcPWzd2UTOVTbJj+5geDn+R40r6keQQKBgQCP\npJYlT4qbrIEVXNMCZQrVtNeCAL+qFdpJf9zRrP8g2ef8Agcys6mlXs/91o46HXNO\nZuxRerTCQQspM7EPJiHzpe35YtGvZ0R3T+mWSIMrrVOsvvcWuTl6iT9Z56Wbe3UZ\n7IwB3843LKlvyzITlg1FfikrHWgfjlONYiXKIp0vbwKBgQCx0Dy8sQdxf09eIyf8\njzKlR6JBQUDjFM0mTCX/iVCcDvw97ecuVq6y+5LYUxLeV2tCC6QA1XGicBWr+/Xo\nrVbzx7uLaO1jzFjnArAprGEZDoml4uCG1QuZAkkWIhVRi+dCuUJYQSq16zfknA2d\nPFgIC3IiEJ2NwX8LW861vY3/Dw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@kondisigreenhouse.iam.gserviceaccount.com",
+  "client_id": "107020976080206782511",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40kondisigreenhouse.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
