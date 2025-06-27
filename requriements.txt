@@ -1,0 +1,8 @@
+scipy
+firebase-admin
+numpy
+requests
+schedule
+scikit-fuzzy
+packaging
+networkx
